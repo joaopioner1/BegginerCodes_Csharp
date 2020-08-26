@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ExLinhaNQC_Repetitivo
+namespace ExLinhaNQC_Repetitivo // N = normal Q = quadrado C = cubo
 {
     class Program
     {
